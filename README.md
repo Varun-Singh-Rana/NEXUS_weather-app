@@ -1,3 +1,6 @@
+# NEXUS Weather app
+### **Introduction**
+
 ---
 ### **Screenshots**
 <img src="screenshots/image2.png" width="600"/>
